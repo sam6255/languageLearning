@@ -1,5 +1,5 @@
 # learning...is hard
 
-> burmise language
+> burmise & chinese
 
 [Getting Started](quickstart)
