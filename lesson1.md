@@ -11,4 +11,4 @@ how are you.
 ## Burmise
 * Nay kaung lar
 *  ေနေကာင္းလား 
-* ေန ( Sun)   + ေကာင္း(Good)  + လား
+* ေန ( Sun)   + ေကာင္း(Good)  + လား(?)
