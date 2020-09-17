@@ -2,4 +2,4 @@
 
 > burmise & chinese
 
-[Getting Started](quickstart)
+[Getting Started](lesson1)
