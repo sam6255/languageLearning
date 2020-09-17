@@ -1,10 +1,3 @@
 - Getting started
 
-  - [Quick start](quickstart.md)
-
-- Customization
-
-  - [Configuration](configuration.md)
-
-
-- [Changelog](changelog.md)
+  - [lesson 1](lesson1.md)
