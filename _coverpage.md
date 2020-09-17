@@ -1,4 +1,4 @@
-# learning...is hard
+# learning......is hard
 
 > burmise & chinese
 
